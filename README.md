@@ -11,7 +11,7 @@ See `documentation.md` for full modeling process, code snippets and EDA
 3. Full results, plots, and performance details in `documentation.md`.
 
 **Screenshots:**  
-![Sample Distribution](images/Figure_1.jpg)
+![Sample Distribution](images/Figure_1.png)
 ![Sample Distribution](images/Figure_2.jpg)
 ![Sample Distribution](images/Figure_3.jpg)
 ![Sample Distribution](images/Figure_4.jpg)
