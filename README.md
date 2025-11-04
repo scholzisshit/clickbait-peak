@@ -12,16 +12,17 @@ See `documentation.md` for full modeling process, code snippets and EDA
 
 **Screenshots:**  
 ![Sample Distribution](images/Figure_1.png)
-![Sample Distribution](images/Figure_2.jpg)
-![Sample Distribution](images/Figure_3.jpg)
-![Sample Distribution](images/Figure_4.jpg)
-![Sample Distribution](images/Figure_5.jpg)
-![Sample Distribution](images/Figure_6.jpg)
-![Sample Distribution](images/Figure_7.jpg)
-![Sample Distribution](images/Figure_8.jpg)
-![Sample Distribution](images/Figure_9.jpg)
-![Sample Distribution](images/Figure_10.jpg)
-![Sample Distribution](images/Figure_11.jpg)
+![Sample Distribution](images/Figure_2.png)
+![Sample Distribution](images/Figure_3.png)
+![Sample Distribution](images/Figure_4.png)
+![Sample Distribution](images/Figure_5.png)
+![Sample Distribution](images/Figure_6.png)
+![Sample Distribution](images/Figure_7.png)
+![Sample Distribution](images/Figure_8.png)
+![Sample Distribution](images/Figure_9.png)
+![Sample Distribution](images/Figure_10.png)
+![Sample Distribution](images/Figure_11.png)
+
 
 ## License
 MIT
