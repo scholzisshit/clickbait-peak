@@ -11,17 +11,17 @@ See `documentation.md` for full modeling process, code snippets and EDA
 3. Full results, plots, and performance details in `documentation.md`.
 
 **Screenshots:**  
-![Sample Distribution](Figure_1.jpg)
-![Sample Distribution](Figure_2.jpg)
-![Sample Distribution](Figure_3.jpg)
-![Sample Distribution](Figure_4.jpg)
-![Sample Distribution](Figure_5.jpg)
-![Sample Distribution](Figure_6.jpg)
-![Sample Distribution](Figure_7.jpg)
-![Sample Distribution](Figure_8.jpg)
-![Sample Distribution](Figure_9.jpg)
-![Sample Distribution](Figure_10.jpg)
-![Sample Distribution](Figure_11.jpg)
+![Sample Distribution](images/Figure_1.jpg)
+![Sample Distribution](images/Figure_2.jpg)
+![Sample Distribution](images/Figure_3.jpg)
+![Sample Distribution](images/Figure_4.jpg)
+![Sample Distribution](images/Figure_5.jpg)
+![Sample Distribution](images/Figure_6.jpg)
+![Sample Distribution](images/Figure_7.jpg)
+![Sample Distribution](images/Figure_8.jpg)
+![Sample Distribution](images/Figure_9.jpg)
+![Sample Distribution](images/Figure_10.jpg)
+![Sample Distribution](images/Figure_11.jpg)
 
 ## License
 MIT
